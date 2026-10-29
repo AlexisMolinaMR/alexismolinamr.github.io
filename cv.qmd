@@ -1,0 +1,111 @@
+---
+toc: true
+toc-title: "Contents"
+---
+
+## Experience
+
+**2026–present — Predoctoral Fellow**. Zhang Lab, AITHYRA.
+
+**2025–present — Scientific Advisory Board Member**. Nostrum Biodiscovery
+
+**2021–present — Visiting Researcher**. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center
+
+**2023–2025 — Director of Artificial Intelligence**. Nostrum Biodiscovery
+
+**2021–2025 — Adjunct Professor**. Department of Computer Science, Polytechnic University of Catalonia
+
+**2017–2024 — Adjunct Professor and Teaching Assistant**. Pompeu Fabra University
+
+**2021–2023 — Artificial Intelligence Lead**. Nostrum Biodiscovery
+
+**2020–2021 — Graduate Researcher**. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center
+
+**2019–2020 — Undergraduate Researcher**. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center
+
+**2017–2020 — Undergraduate Researcher**. Structural Bioinformatics Group, Biomedical Informatics Research Unit.
+
+## Education
+
+**2020–2021 — Postgraduate Degree in Artificial Intelligence**. Polytechnic University of Catalonia
+
+**2017–2020 — Bachelor’s Degree in Bioinformatics** . Joint degree, Polytechnic University of Catalonia, University of Barcelona, and Pompeu Fabra University
+
+Honors thesis supervised by Victor Guallar.
+
+## Teaching experience
+
+Machine Learning I. **Department of Computer Science, Polytechnic University of Catalonia — Spring 2022–2025**
+
+> Taught sessions for second-year Data Science students covering data preprocessing, regularization, clustering, decision trees, ensemble methods, and resampling techniques.
+
+Programming I. **Department of Computer Science, Polytechnic University of Catalonia — Spring 2022–2024**
+
+> Taught weekly sessions covering C++ fundamentals, including syntax, data types, control structures, and introductory problem-solving.
+
+Applied Programming for the Life Sciences. **Department of Computer Science, Polytechnic University of Catalonia — Spring and Fall 2024**
+
+> Taught theory and laboratory sessions for the inaugural edition of the course. Topics included object-oriented programming, algorithms, complexity analysis, and optimization.
+
+Programming and Algorithms I. **Polytechnic University of Catalonia — Fall 2021–2023**
+
+> Taught foundational Python programming to first-year Industrial Engineering and Bioinformatics students.
+
+Programming and Algorithms I. **Pompeu Fabra University — Fall 2017–2024**
+
+> Organized and taught a preparatory course covering Bash, Linux, and Python, and provided supplementary support sessions throughout the semester.
+
+## Thesis supervision
+
+### 2025
+
+* *Pocket-Aware Molecular Generation Through Learned Protein Representations*. Claudia Valverde. **Master’s thesis, University of Barcelona**.
+
+* *Study of Optimal Model Size for Foundation Language Models in Biomolecules*. Raquel Vazquez. **Master’s thesis, Polytechnic University of Catalonia**. Co-supervised with Adrián Morales.
+
+### 2024
+
+* *Prediction and Optimization of RNA Stability via Language Models*. Oriol Verges. **Bachelor’s thesis, Pompeu Fabra University**.
+
+* *Hunting Novel Molecular Glues by Mixing AI and Molecular-Modelling Workflows*. Lluis Gimenez. **Bachelor’s thesis, Pompeu Fabra University**. Co-supervised with Carles Pérez.
+
+### 2023
+
+* *Deep Learning Techniques for Protein–Protein Interaction Prediction*. Clàudia Valverde. **Bachelor’s thesis, Pompeu Fabra University**.
+
+* *Generative Modeling for De Novo Protein Generation*. Yaiza Serrano. **Bachelor’s thesis, Pompeu Fabra University**.
+
+### 2022
+
+* *ADMET Properties Prediction Using Geometric Deep Learning*. Zinnera Tariq. **Bachelor’s thesis, Pompeu Fabra University**.
+
+
+## Invited talks
+
+**April 2025 — Rethinking Biomolecular Language Models via Linear Attention and Learnable Tokenization**  
+AI in Biomedicine, Institute for Research in Biomedicine Barcelona, Barcelona, Spain.
+
+**September 2024 — Enhancing Drug Discovery Through Representation Learning in Sequence and Structure Spaces**  
+RSC-CICAG / RSC-BMCS Artificial Intelligence in Chemistry, Churchill College, Cambridge, United Kingdom.
+
+**October 2023 — Informed Lead Generation from the Screening of Ultra-Large Databases**  
+CCPBioSim Industry Talk, online.
+
+## Academic service
+
+### Peer review
+
+**Conferences**
+
+* NeurIPS - 2026
+* International Conference on Learning Representations — 2025, 2026
+* International Conference on Machine Learning — 2024, 2025, 2026
+
+**Journals**
+
+* Nature Machine Intelligence - 2026
+* Nucleic Acids Research — 2025
+* WIREs Computational Molecular Science — 2024–2025
+
+
+[Download CV as PDF](assets/cv.pdf){.btn .btn-primary target="_blank"}

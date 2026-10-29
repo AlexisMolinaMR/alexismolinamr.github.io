@@ -1,0 +1,64 @@
+---
+title: "Publications"
+---
+
+### 2026
+
+* Perturbation Response Decomposition Enables Biologically Aligned Generalization to Unseen Perturbations and Cellular Contexts. **Alexis Molina**, Xinyi Zhang. **bioRxiv, 2026** · [[paper](https://www.biorxiv.org/content/10.64898/2026.07.24.740459v1)]
+
+* Addressing Model Overcomplexity in Drug–Drug Interaction Prediction with Molecular Fingerprints. Manel Gil-Sorribes, **Alexis Molina**. **Journal of Cheminformatics, 18, 38, 2026** · [[paper](https://link.springer.com/article/10.1186/s13321-025-01128-8)]
+
+* Tensor-DTI: Enhancing Biomolecular Interaction Prediction with Contrastive Embedding Learning. Manel Gil-Sorribes, Júlia Vilalta-Mor, Isaac Filella-Mercè, Robert Soliva, Álvaro Ciudad, Victor Guallar, **Alexis Molina**. **Presented at the ICLR 2025 Workshops on Generative and Experimental Perspectives for Biomolecular Design (GEM) and Learning Meaningful Representations of Life (LMRL); subsequently updated as an arXiv preprint, 2026** · [[paper](https://arxiv.org/abs/2601.05792)]
+
+* Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing. Bertran Miquel-Oliver, Manel Gil-Sorribes, Victor Guallar, **Alexis Molina**. **ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling (GRaM); arXiv, 2026** · [[paper](https://arxiv.org/abs/2603.11944)]
+
+### 2025
+
+* Optimizing Drug Design by Merging Generative AI with a Physics-Based Active Learning Framework. Isaac Filella-Mercè, **Alexis Molina**, Lucía Díaz, Marek Orzechowski, Yamina A. Berchiche, Yang Ming Zhu, Júlia Vilalta-Mor, Laura Malo, Ajay S. Yekkirala, Soumya Ray, Victor Guallar. **Communications Chemistry, 8, 238, 2025** · [[paper](https://www.nature.com/articles/s42004-025-01635-7)]
+
+* Informed Protein–Ligand Docking via Geodesic Guidance in Translational, Rotational and Torsional Spaces. Raúl Miñán, Javier Gallardo, Álvaro Ciudad, **Alexis Molina**. **Nature Machine Intelligence, 7, 1555–1560, 2025** · [[paper](https://www.nature.com/articles/s42256-025-01091-x)]
+
+* How Feasible Is Docking of PROTACs to POI–E3L Complexes? Testing Physics-Based and ML-Based Docking Tools. Roberto Jiménez-Boi, Raúl Miñán, Chiara Pallara, Estrella Lozoya, Victor Guallar, **Alexis Molina**, Robert Soliva. **Journal of Chemical Information and Modeling, 65(22), 12551–12562, 2025** · [[paper](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01581)]
+
+* De Novo Design of SIK3 Inhibitors via Feedback-Driven Fine-Tuning of Seq2Seq-VAE. ShahZeb Khan, Chiara Pallara, Barbara Monti, **Alexis Molina**. **arXiv, 2025** · [[paper](https://arxiv.org/abs/2511.06930)]
+
+* Evolutionary and Geometric Signatures Reveal Ligand-Binding Sites Across Proteomes. Stelina Tarasi, Laura Malo, **Alexis Molina**. **bioRxiv, 2025; presented at the ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design (GEM)** · [[paper](https://www.biorxiv.org/content/10.1101/2025.10.07.680847v1)]
+
+* Active Learning-Guided Seq2Seq Variational Autoencoder for Multi-Target Inhibitor Generation. Júlia Vilalta-Mor, **Alexis Molina**, Laura Ortega Varga, Isaac Filella-Mercè, Victor Guallar. **ICML 2025 Workshop on Generative AI and Biology (GenBio); arXiv, 2025** · [[paper](https://arxiv.org/abs/2506.15309)]
+
+* Efficient Design of Affilin® Protein Binders for HER3. Anna M. Diaz-Rovira, Jonathan Lotze, Gregor Hoffmann, Chiara Pallara, **Alexis Molina**, Ina Coburger, Manja Gloser-Bräunig, Maren Meysing, Madlen Zwarg, Lucía Díaz, Victor Guallar, Eva Bosse-Doenecke, Sergi Roda. **International Journal of Molecular Sciences, 26(10), 4683, 2025** · [[paper](https://www.mdpi.com/1422-0067/26/10/4683)]
+
+* Character-Level Tokenizations as Powerful Inductive Biases for RNA Foundational Models. Adrián Morales-Pastor, Raquel Vázquez-Reza, Miłosz Wieczór, Clàudia Valverde, Manel Gil-Sorribes, Bertran Miquel-Oliver, Álvaro Ciudad, **Alexis Molina**. **ICLR 2025 Workshops on AI for Nucleic Acids (AI4NA) and Learning Meaningful Representations of Life (LMRL); arXiv, 2024** · [[paper](https://arxiv.org/abs/2411.11808)]
+
+* Sesame: Opening the Door to Protein Pockets. Raúl Miñán, Carles Perez-Lopez, Javier Iglesias-Fernández, Álvaro Ciudad, **Alexis Molina**. **ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design (GEM); arXiv, 2025** · [[paper](https://arxiv.org/abs/2509.05302)]
+
+* sHGCN: Simplified Hyperbolic Graph Convolutional Neural Networks. Pol Arévalo, **Alexis Molina**, Álvaro Ciudad. **arXiv, 2025** · [[paper](https://arxiv.org/abs/2506.14438)]
+
+* TopoBench: A Framework for Benchmarking Topological Deep Learning. Lev Telyatnikov, Guillermo Bernárdez, Marco Montagna, Mustafa Hajij, Martin Carrasco, Pavlo Vasylenko, Mathilde Papillon, Ghada Zamzmi, Michael T. Schaub, Jonas Verhellen, Pavel Snopov, Bertran Miquel-Oliver, Manel Gil-Sorribes, **Alexis Molina**, Victor Guallar, Theodore Long, Julian Suk, Patryk Rygiel, Alexander Nikitin, Giordan Escalona, Michael Banf, Dominik Filipiak, Max Schattauer, Liliya Imasheva, Alvaro Martinez, Halley Fritze, Marissa Masden, Valentina Sánchez, Manuel Lecha, Andrea Cavallo, Claudio Battiloro, Matt Piekenbrock, Mauricio Tec, George Dasoulas, Nina Miolane, Simone Scardapane, Theodore Papamarkou. **Journal of Data-centric Machine Learning Research, 2025** · [[paper](https://openreview.net/forum?id=07sTzyEVtY)]
+
+### 2024
+
+* Are Protein Language Models Compute Optimal? Yaiza Serrano, Álvaro Ciudad, **Alexis Molina**. **ICML 2024 Workshop on Accessible and Efficient Foundation Models for Biological Discovery (AccMLBio); arXiv, 2024** · [[paper](https://openreview.net/forum?id=Y4yma8kJo1)]
+
+* Scoreformer: A Surrogate Model for Large-Scale Prediction of Docking Scores. Álvaro Ciudad, Adrián Morales-Pastor, Laura Malo, Isaac Filella-Mercè, Victor Guallar, **Alexis Molina**. **ICML 2024 Workshop on Machine Learning for Life and Material Science: From Theory to Industry (ML4LMS); arXiv, 2024** · [[paper](https://openreview.net/forum?id=nLIbjNPgHj)]
+
+* ICML Topological Deep Learning Challenge 2024: Beyond the Graph Domain. Guillermo Bernárdez, Lev Telyatnikov, Marco Montagna, Federica Baccini, Mathilde Papillon, Miquel Ferriol-Galmés, Mustafa Hajij, Theodore Papamarkou, Maria Sofia Bucarelli, Olga Zaghen, Johan Mathe, Audun Myers, Scott Mahan, Hansen Lillemark, Sharvaree Vadgama, Erik Bekkers, Tim Doster, Tegan Emerson, Henry Kvinge, Katrina Agate, Nesreen K. Ahmed, Pengfei Bai, Michael Banf, Claudio Battiloro, Maxim Beketov, Paul Bogdan, Martin Carrasco, Andrea Cavallo, Yun Young Choi, George Dasoulas, Matouš Elphick, Giordan Escalona, Dominik Filipiak, Halley Fritze, Thomas Gebhart, Manel Gil-Sorribes, Salvish Goomanee, Victor Guallar, Liliya Imasheva, Andrei Irimia, Hongwei Jin, Graham Johnson, Nikos Kanakaris, Boshko Koloski, Veljko Kovač, Manuel Lecha, Minho Lee, Pierrick Leroy, Theodore Long, German Magai, Alvaro Martinez, Marissa Masden, Sebastian Mežnar, Bertran Miquel-Oliver, **Alexis Molina**, Alexander Nikitin, Marco Nurisso, Matt Piekenbrock, Yu Qin, Patryk Rygiel, Alessandro Salatiello, Max Schattauer, Pavel Snopov, Julian Suk, Valentina Sánchez, Mauricio Tec, Francesco Vaccarino, Jonas Verhellen, Frederic Wantiez, Alexander Weers, Patrik Zajec, Blaž Škrlj, Nina Miolane. **Proceedings of the ICML 2024 Geometry-grounded Representation Learning and Generative Modeling Workshop, Proceedings of Machine Learning Research, 251, 420–428, 2024** · [[paper](https://proceedings.mlr.press/v251/bernardez24a.html)]
+
+### 2023
+
+* Combining Machine-Learning and Molecular-Modeling Methods for Drug–Target Affinity Predictions. Carles Perez-Lopez, **Alexis Molina**, Estrella Lozoya, Victor Segarra, Martí Municoy, Victor Guallar. **WIREs Computational Molecular Science, 13(4), e1653, 2023** · [[paper](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcms.1653)]
+
+* Efficient and Accurate Sequence Generation with Small-Scale Protein Language Models. Yaiza Serrano, Sergi Roda, Victor Guallar, **Alexis Molina**. **bioRxiv, 2023** · [[paper](https://www.biorxiv.org/content/10.1101/2023.08.04.551626v1)]
+
+### 2022
+
+* Recent PELE Developments and Applications in Drug Discovery Campaigns. Ignasi Puch-Giner, **Alexis Molina**, Martí Municoy, Carles Pérez, Victor Guallar. **International Journal of Molecular Sciences, 23(24), 16090, 2022** · [[paper](https://www.mdpi.com/1422-0067/23/24/16090)]
+
+### 2021
+
+* Modeling SARS-CoV-2 Proteins in the CASP-Commons Experiment. Andriy Kryshtafovych, John Moult, Wendy M. Billings, Dennis Della Corte, Krzysztof Fidelis, Sohee Kwon, Kliment Olechnovič, Chaok Seok, Česlovas Venclovas, Jonghun Won, and the CASP-COVID participants, including **Alexis Molina**. **Proteins: Structure, Function, and Bioinformatics, 89(12), 1987–1996, 2021** · [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8616790/)]
+
+* On the Use of Direct-Coupling Analysis with a Reduced Alphabet of Amino Acids Combined with Super-Secondary Structure Motifs for Protein Fold Prediction. Bernat Anton, Mireia Besalú, Oriol Fornes, Jaume Bonet, **Alexis Molina**, Ruben Molina-Fernandez, Gemma de las Cuevas, Narcis Fernandez-Fuentes, Baldo Oliva. **NAR Genomics and Bioinformatics, 3(2), lqab027, 2021** · [[paper](https://academic.oup.com/nargab/article/3/2/lqab027/6246168)]
+
+
+You can also find the list in my scholar [profile](https://scholar.google.com/citations?user=moyS0qgAAAAJ&hl=en&oi=ao) .

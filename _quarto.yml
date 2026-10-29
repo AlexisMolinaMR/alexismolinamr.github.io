@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: ""
+  description: "Researcher in X. Working on Y."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+ #     - href: research.qmd
+#        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: blog.qmd
+        text: Blog
+      - href: collaborate.qmd
+        text: Collaborate
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/AlexisMolinaMR
+      - icon: twitter-x
+        href: https://x.com/alexismolmr
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alexismolinamr/
+
+  page-footer:
+    center: "© 2026 Alexis Molina"
+      
+format:
+  html:
+    theme: cosmo
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

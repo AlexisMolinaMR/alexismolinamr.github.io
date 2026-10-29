@@ -1,0 +1,19 @@
+---
+title: "Research"
+---
+
+## Research themes
+
+### Theme A
+**Problem:**  
+**Why it matters:**  
+**My angle:**  
+
+**Selected outputs**
+- *Paper / code / talk*
+
+### Theme B
+...
+
+### Theme C
+...

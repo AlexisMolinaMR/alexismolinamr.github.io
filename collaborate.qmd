@@ -1,0 +1,15 @@
+---
+## title: "Collaborate"
+---
+
+I am particularly interested in experiments that characterize how genetic and chemical perturbations, disease-associated mutations, and systematic mutagenesis affect cellular states, morphology, protein function, stability, and subcellular localization and how these effects vary across cell types and tissues. This includes approaches such as Perturb-seq, Cell Painting and high-content imaging, MERFISH and spatial omics, deep mutational scanning, and protein stability assays.
+
+You do not need to already have the data. I am especially interested in identifying biological questions where we can jointly design experiments, generate the right measurements, and develop computational methods to learn from them.
+
+I believe AI can make biology more predictable, understandable, and experimentally testable when we match the right biological question with the right data and evaluation framework. Often, the most important advances come not from increasing model complexity, but from identifying what needs to be measured, what can be learned, and how predictions can be validated.
+
+## Get in touch
+
+Have a biological question, experimental system, dataset, or assay idea that could benefit from machine learning?
+
+Send me an email at: amolina at aithyra dot at
