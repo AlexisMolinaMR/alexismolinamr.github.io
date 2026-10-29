@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Short notes and longer essays on AI, biology, and modeling.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst post\n\n\n\nnotes\n\n\n\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alexis Molina",
+    "section": "",
+    "text": "I am a Predoctoral Fellow at AITHYRA, supervised by Xinyi Zhang. My current research focuses on developing machine-learning methods to understand and predict how biological systems respond to genetic and chemical perturbations, particularly across different cellular contexts. In parallel, I am interested in learning biologically meaningful representations of cellular state from complementary modalities, enabling us to understand and predict phenomena such as protein localization and how these vary across cells, tissues, and biological conditions.\nPreviously, I was Director of AI at Nostrum Biodiscovery, where I led research on binding-affinity prediction, surrogate models for molecular docking, protein–ligand modelling, and generative approaches to molecular design.\nMore broadly, I am interested in how biological representations, model inductive biases, and evaluation frameworks determine the ability of machine-learning systems to generalize beyond the experimental conditions on which they were trained. Ultimately, I want to connect our understanding of cellular responses, molecular interactions, and biological context to identify therapeutic vulnerabilities and develop interventions that exploit them selectively."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Alexis Molina",
+    "section": "Research interests",
+    "text": "Research interests\n\nPerturbation biology and cellular response modelling — Understanding and predicting how genetic and chemical interventions reshape cellular states, and how these responses generalize across perturbations, cell types, and biological contexts.\nMultimodal and multiscale representations of biological systems — Integrating transcriptomic, morphological, spatial, and molecular information to learn representations of cellular states and functions, with particular interest in protein localization and transferring observations across biological scales.\nContext-aware therapeutic discovery — Combining functional genomics, cellular phenotypes, and molecular modelling to identify disease-relevant vulnerabilities, prioritize therapeutic targets, and develop molecular interventions, including targeted inhibition and protein degradation.\n\n\nResearch highlights\n\nThese projects are collaborative efforts. Although I supervised many of them, they were made possible by the interns, team members, and collaborators listed as co-authors. I am always happy to discuss the work, but please consider reaching out to them too.\n\n\nCellular modelling and perturbation biology\n\nPerturbation Response Decomposition Enables Biologically Aligned Generalization to Unseen Perturbations and Cellular Contexts — bioRxiv, 2026 · [paper] — Decomposes transcriptional responses into shared, perturbation-specific, cellular-context and interaction components to determine what predictive models recover.\n\n\n\n\n\n\n\n\nProtein and RNA language models\n\nAre Protein Language Models Compute Optimal? — ICML 2024 Workshop on Accessible and Efficient Foundation Models for Biological Discovery (AccMLBio) · [paper] — Studies how protein-language-model size, training data, and compute should scale together.\nEfficient and Accurate Sequence Generation with Small-Scale Protein Language Models — bioRxiv, 2023 · [paper] — Explores whether compact protein language models can generate biologically meaningful sequences without very large architectures.\n\n\n\n\n\n\n\nCharacter-level Tokenizations as Powerful Inductive Biases for RNA Foundational Models — ICLR 2025 Workshops on AI for Nucleic Acids (AI4NA) and Learning Meaningful Representations of Life (LMRL) · [paper] — Investigates learnable character-level tokenization for RNA foundation models.\n\n\n\n\n\n\n\n\nVirtual screening and molecular modelling\n\nScoreformer: A Surrogate Model for Large-Scale Prediction of Docking Scores — ICML 2024 Workshop on Machine Learning for Life and Material Science: From Theory to Industry (ML4LMS) · [paper] — Develops a surrogate model for rapidly approximating docking scores across large molecular libraries.\n\n\n\n\n\n\n\nOptimizing Drug Design by Merging Generative AI with a Physics-Based Active Learning Framework — Communications Chemistry, 2025 · [paper] — Combines molecular generation, physics-based modelling and active learning to iteratively improve candidate molecules.\n\n\n\n\n\n\n\nInformed Protein–Ligand Docking via Geodesic Guidance in Translational, Rotational and Torsional Spaces — Nature Machine Intelligence, 2025 · [paper] — Introduces geometry-aware guidance for protein–ligand docking across translational, rotational and torsional search spaces.\nTensor-DTI: Enhancing Biomolecular Interaction Prediction with Contrastive Embedding Learning — ICLR 2025 Workshops on Generative and Experimental Perspectives for Biomolecular Design (GEM) and Learning Meaningful Representations of Life (LMRL); extended preprint on arXiv, 2026 · [paper] — Uses structured contrastive representations for drug–target interaction and affinity prediction.\n\n\n\n\n\n\n\nAddressing Model Overcomplexity in Drug–Drug Interaction Prediction with Molecular Fingerprints — Journal of Cheminformatics, 2026 · [paper] — Shows that simple molecular fingerprints can match or outperform substantially more complex architectures on common interaction benchmarks.\n\n\n\nGraph and topological deep learning\nMost of my work in geometric deep learning is pursued in collaboration with Bertran Miquel. For further details on this research direction, please visit his website or contact him directly.\n\nEffective Resistance Rewiring: A Simple Topological Correction for Over-Squashing — arXiv, 2026 · [paper] — Uses effective resistance to identify and correct structural bottlenecks that limit long-range information propagation in graph neural networks.\nTopoBench: A Framework for Benchmarking Topological Deep Learning — Journal of Data-centric Machine Learning Research, 2025 · [paper] — Provides a common framework for evaluating learning methods across graphs and higher-order topological domains.\nICML Topological Deep Learning Challenge 2024: Beyond the Graph Domain — Proceedings of the ICML 2024 Geometry-grounded Representation Learning and Generative Modeling Workshop (GRaM), PMLR volume 251 · [paper] — Defines benchmark tasks for learning across graphs, hypergraphs and topological complexes."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Problem:\nWhy it matters:\nMy angle:\nSelected outputs - Paper / code / talk\n\n\n\n…\n\n\n\n…"
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "",
+    "text": "Problem:\nWhy it matters:\nMy angle:\nSelected outputs - Paper / code / talk\n\n\n\n…\n\n\n\n…"
+  },
+  {
+    "objectID": "collaborate.html",
+    "href": "collaborate.html",
+    "title": "",
+    "section": "",
+    "text": "I am particularly interested in experiments that characterize how genetic and chemical perturbations, disease-associated mutations, and systematic mutagenesis affect cellular states, morphology, protein function, stability, and subcellular localization and how these effects vary across cell types and tissues. This includes approaches such as Perturb-seq, Cell Painting and high-content imaging, MERFISH and spatial omics, deep mutational scanning, and protein stability assays.\nYou do not need to already have the data. I am especially interested in identifying biological questions where we can jointly design experiments, generate the right measurements, and develop computational methods to learn from them.\nI believe AI can make biology more predictable, understandable, and experimentally testable when we match the right biological question with the right data and evaluation framework. Often, the most important advances come not from increasing model complexity, but from identifying what needs to be measured, what can be learned, and how predictions can be validated."
+  },
+  {
+    "objectID": "collaborate.html#get-in-touch",
+    "href": "collaborate.html#get-in-touch",
+    "title": "",
+    "section": "Get in touch",
+    "text": "Get in touch\nHave a biological question, experimental system, dataset, or assay idea that could benefit from machine learning?\nSend me an email at: amolina at aithyra dot at"
+  },
+  {
+    "objectID": "posts/2025-12-05-first-post.html",
+    "href": "posts/2025-12-05-first-post.html",
+    "title": "First post",
+    "section": "",
+    "text": "A short post to verify everything renders correctly."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2026\n\nPerturbation Response Decomposition Enables Biologically Aligned Generalization to Unseen Perturbations and Cellular Contexts. Alexis Molina, Xinyi Zhang. bioRxiv, 2026 · [paper]\nAddressing Model Overcomplexity in Drug–Drug Interaction Prediction with Molecular Fingerprints. Manel Gil-Sorribes, Alexis Molina. Journal of Cheminformatics, 18, 38, 2026 · [paper]\nTensor-DTI: Enhancing Biomolecular Interaction Prediction with Contrastive Embedding Learning. Manel Gil-Sorribes, Júlia Vilalta-Mor, Isaac Filella-Mercè, Robert Soliva, Álvaro Ciudad, Victor Guallar, Alexis Molina. Presented at the ICLR 2025 Workshops on Generative and Experimental Perspectives for Biomolecular Design (GEM) and Learning Meaningful Representations of Life (LMRL); subsequently updated as an arXiv preprint, 2026 · [paper]\nEffective Resistance Rewiring: A Simple Topological Correction for Over-Squashing. Bertran Miquel-Oliver, Manel Gil-Sorribes, Victor Guallar, Alexis Molina. ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling (GRaM); arXiv, 2026 · [paper]\n\n\n\n2025\n\nOptimizing Drug Design by Merging Generative AI with a Physics-Based Active Learning Framework. Isaac Filella-Mercè, Alexis Molina, Lucía Díaz, Marek Orzechowski, Yamina A. Berchiche, Yang Ming Zhu, Júlia Vilalta-Mor, Laura Malo, Ajay S. Yekkirala, Soumya Ray, Victor Guallar. Communications Chemistry, 8, 238, 2025 · [paper]\nInformed Protein–Ligand Docking via Geodesic Guidance in Translational, Rotational and Torsional Spaces. Raúl Miñán, Javier Gallardo, Álvaro Ciudad, Alexis Molina. Nature Machine Intelligence, 7, 1555–1560, 2025 · [paper]\nHow Feasible Is Docking of PROTACs to POI–E3L Complexes? Testing Physics-Based and ML-Based Docking Tools. Roberto Jiménez-Boi, Raúl Miñán, Chiara Pallara, Estrella Lozoya, Victor Guallar, Alexis Molina, Robert Soliva. Journal of Chemical Information and Modeling, 65(22), 12551–12562, 2025 · [paper]\nDe Novo Design of SIK3 Inhibitors via Feedback-Driven Fine-Tuning of Seq2Seq-VAE. ShahZeb Khan, Chiara Pallara, Barbara Monti, Alexis Molina. arXiv, 2025 · [paper]\nEvolutionary and Geometric Signatures Reveal Ligand-Binding Sites Across Proteomes. Stelina Tarasi, Laura Malo, Alexis Molina. bioRxiv, 2025; presented at the ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design (GEM) · [paper]\nActive Learning-Guided Seq2Seq Variational Autoencoder for Multi-Target Inhibitor Generation. Júlia Vilalta-Mor, Alexis Molina, Laura Ortega Varga, Isaac Filella-Mercè, Victor Guallar. ICML 2025 Workshop on Generative AI and Biology (GenBio); arXiv, 2025 · [paper]\nEfficient Design of Affilin® Protein Binders for HER3. Anna M. Diaz-Rovira, Jonathan Lotze, Gregor Hoffmann, Chiara Pallara, Alexis Molina, Ina Coburger, Manja Gloser-Bräunig, Maren Meysing, Madlen Zwarg, Lucía Díaz, Victor Guallar, Eva Bosse-Doenecke, Sergi Roda. International Journal of Molecular Sciences, 26(10), 4683, 2025 · [paper]\nCharacter-Level Tokenizations as Powerful Inductive Biases for RNA Foundational Models. Adrián Morales-Pastor, Raquel Vázquez-Reza, Miłosz Wieczór, Clàudia Valverde, Manel Gil-Sorribes, Bertran Miquel-Oliver, Álvaro Ciudad, Alexis Molina. ICLR 2025 Workshops on AI for Nucleic Acids (AI4NA) and Learning Meaningful Representations of Life (LMRL); arXiv, 2024 · [paper]\nSesame: Opening the Door to Protein Pockets. Raúl Miñán, Carles Perez-Lopez, Javier Iglesias-Fernández, Álvaro Ciudad, Alexis Molina. ICLR 2025 Workshop on Generative and Experimental Perspectives for Biomolecular Design (GEM); arXiv, 2025 · [paper]\nsHGCN: Simplified Hyperbolic Graph Convolutional Neural Networks. Pol Arévalo, Alexis Molina, Álvaro Ciudad. arXiv, 2025 · [paper]\nTopoBench: A Framework for Benchmarking Topological Deep Learning. Lev Telyatnikov, Guillermo Bernárdez, Marco Montagna, Mustafa Hajij, Martin Carrasco, Pavlo Vasylenko, Mathilde Papillon, Ghada Zamzmi, Michael T. Schaub, Jonas Verhellen, Pavel Snopov, Bertran Miquel-Oliver, Manel Gil-Sorribes, Alexis Molina, Victor Guallar, Theodore Long, Julian Suk, Patryk Rygiel, Alexander Nikitin, Giordan Escalona, Michael Banf, Dominik Filipiak, Max Schattauer, Liliya Imasheva, Alvaro Martinez, Halley Fritze, Marissa Masden, Valentina Sánchez, Manuel Lecha, Andrea Cavallo, Claudio Battiloro, Matt Piekenbrock, Mauricio Tec, George Dasoulas, Nina Miolane, Simone Scardapane, Theodore Papamarkou. Journal of Data-centric Machine Learning Research, 2025 · [paper]\n\n\n\n2024\n\nAre Protein Language Models Compute Optimal? Yaiza Serrano, Álvaro Ciudad, Alexis Molina. ICML 2024 Workshop on Accessible and Efficient Foundation Models for Biological Discovery (AccMLBio); arXiv, 2024 · [paper]\nScoreformer: A Surrogate Model for Large-Scale Prediction of Docking Scores. Álvaro Ciudad, Adrián Morales-Pastor, Laura Malo, Isaac Filella-Mercè, Victor Guallar, Alexis Molina. ICML 2024 Workshop on Machine Learning for Life and Material Science: From Theory to Industry (ML4LMS); arXiv, 2024 · [paper]\nICML Topological Deep Learning Challenge 2024: Beyond the Graph Domain. Guillermo Bernárdez, Lev Telyatnikov, Marco Montagna, Federica Baccini, Mathilde Papillon, Miquel Ferriol-Galmés, Mustafa Hajij, Theodore Papamarkou, Maria Sofia Bucarelli, Olga Zaghen, Johan Mathe, Audun Myers, Scott Mahan, Hansen Lillemark, Sharvaree Vadgama, Erik Bekkers, Tim Doster, Tegan Emerson, Henry Kvinge, Katrina Agate, Nesreen K. Ahmed, Pengfei Bai, Michael Banf, Claudio Battiloro, Maxim Beketov, Paul Bogdan, Martin Carrasco, Andrea Cavallo, Yun Young Choi, George Dasoulas, Matouš Elphick, Giordan Escalona, Dominik Filipiak, Halley Fritze, Thomas Gebhart, Manel Gil-Sorribes, Salvish Goomanee, Victor Guallar, Liliya Imasheva, Andrei Irimia, Hongwei Jin, Graham Johnson, Nikos Kanakaris, Boshko Koloski, Veljko Kovač, Manuel Lecha, Minho Lee, Pierrick Leroy, Theodore Long, German Magai, Alvaro Martinez, Marissa Masden, Sebastian Mežnar, Bertran Miquel-Oliver, Alexis Molina, Alexander Nikitin, Marco Nurisso, Matt Piekenbrock, Yu Qin, Patryk Rygiel, Alessandro Salatiello, Max Schattauer, Pavel Snopov, Julian Suk, Valentina Sánchez, Mauricio Tec, Francesco Vaccarino, Jonas Verhellen, Frederic Wantiez, Alexander Weers, Patrik Zajec, Blaž Škrlj, Nina Miolane. Proceedings of the ICML 2024 Geometry-grounded Representation Learning and Generative Modeling Workshop, Proceedings of Machine Learning Research, 251, 420–428, 2024 · [paper]\n\n\n\n2023\n\nCombining Machine-Learning and Molecular-Modeling Methods for Drug–Target Affinity Predictions. Carles Perez-Lopez, Alexis Molina, Estrella Lozoya, Victor Segarra, Martí Municoy, Victor Guallar. WIREs Computational Molecular Science, 13(4), e1653, 2023 · [paper]\nEfficient and Accurate Sequence Generation with Small-Scale Protein Language Models. Yaiza Serrano, Sergi Roda, Victor Guallar, Alexis Molina. bioRxiv, 2023 · [paper]\n\n\n\n2022\n\nRecent PELE Developments and Applications in Drug Discovery Campaigns. Ignasi Puch-Giner, Alexis Molina, Martí Municoy, Carles Pérez, Victor Guallar. International Journal of Molecular Sciences, 23(24), 16090, 2022 · [paper]\n\n\n\n2021\n\nModeling SARS-CoV-2 Proteins in the CASP-Commons Experiment. Andriy Kryshtafovych, John Moult, Wendy M. Billings, Dennis Della Corte, Krzysztof Fidelis, Sohee Kwon, Kliment Olechnovič, Chaok Seok, Česlovas Venclovas, Jonghun Won, and the CASP-COVID participants, including Alexis Molina. Proteins: Structure, Function, and Bioinformatics, 89(12), 1987–1996, 2021 · [paper]\nOn the Use of Direct-Coupling Analysis with a Reduced Alphabet of Amino Acids Combined with Super-Secondary Structure Motifs for Protein Fold Prediction. Bernat Anton, Mireia Besalú, Oriol Fornes, Jaume Bonet, Alexis Molina, Ruben Molina-Fernandez, Gemma de las Cuevas, Narcis Fernandez-Fuentes, Baldo Oliva. NAR Genomics and Bioinformatics, 3(2), lqab027, 2021 · [paper]\n\nYou can also find the list in my scholar profile ."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "",
+    "section": "",
+    "text": "2026–present — Predoctoral Fellow. Zhang Lab, AITHYRA.\n2025–present — Scientific Advisory Board Member. Nostrum Biodiscovery\n2021–present — Visiting Researcher. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center\n2023–2025 — Director of Artificial Intelligence. Nostrum Biodiscovery\n2021–2025 — Adjunct Professor. Department of Computer Science, Polytechnic University of Catalonia\n2017–2024 — Adjunct Professor and Teaching Assistant. Pompeu Fabra University\n2021–2023 — Artificial Intelligence Lead. Nostrum Biodiscovery\n2020–2021 — Graduate Researcher. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center\n2019–2020 — Undergraduate Researcher. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center\n2017–2020 — Undergraduate Researcher. Structural Bioinformatics Group, Biomedical Informatics Research Unit."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "",
+    "section": "",
+    "text": "2026–present — Predoctoral Fellow. Zhang Lab, AITHYRA.\n2025–present — Scientific Advisory Board Member. Nostrum Biodiscovery\n2021–present — Visiting Researcher. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center\n2023–2025 — Director of Artificial Intelligence. Nostrum Biodiscovery\n2021–2025 — Adjunct Professor. Department of Computer Science, Polytechnic University of Catalonia\n2017–2024 — Adjunct Professor and Teaching Assistant. Pompeu Fabra University\n2021–2023 — Artificial Intelligence Lead. Nostrum Biodiscovery\n2020–2021 — Graduate Researcher. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center\n2019–2020 — Undergraduate Researcher. Electronic and Atomic Protein Modelling Group, Department of Life Sciences, Barcelona Supercomputing Center\n2017–2020 — Undergraduate Researcher. Structural Bioinformatics Group, Biomedical Informatics Research Unit."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "",
+    "section": "Education",
+    "text": "Education\n2020–2021 — Postgraduate Degree in Artificial Intelligence. Polytechnic University of Catalonia\n2017–2020 — Bachelor’s Degree in Bioinformatics . Joint degree, Polytechnic University of Catalonia, University of Barcelona, and Pompeu Fabra University\nHonors thesis supervised by Victor Guallar."
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "",
+    "section": "Teaching experience",
+    "text": "Teaching experience\nMachine Learning I. Department of Computer Science, Polytechnic University of Catalonia — Spring 2022–2025\n\nTaught sessions for second-year Data Science students covering data preprocessing, regularization, clustering, decision trees, ensemble methods, and resampling techniques.\n\nProgramming I. Department of Computer Science, Polytechnic University of Catalonia — Spring 2022–2024\n\nTaught weekly sessions covering C++ fundamentals, including syntax, data types, control structures, and introductory problem-solving.\n\nApplied Programming for the Life Sciences. Department of Computer Science, Polytechnic University of Catalonia — Spring and Fall 2024\n\nTaught theory and laboratory sessions for the inaugural edition of the course. Topics included object-oriented programming, algorithms, complexity analysis, and optimization.\n\nProgramming and Algorithms I. Polytechnic University of Catalonia — Fall 2021–2023\n\nTaught foundational Python programming to first-year Industrial Engineering and Bioinformatics students.\n\nProgramming and Algorithms I. Pompeu Fabra University — Fall 2017–2024\n\nOrganized and taught a preparatory course covering Bash, Linux, and Python, and provided supplementary support sessions throughout the semester."
+  },
+  {
+    "objectID": "cv.html#thesis-supervision",
+    "href": "cv.html#thesis-supervision",
+    "title": "",
+    "section": "Thesis supervision",
+    "text": "Thesis supervision\n\n2025\n\nPocket-Aware Molecular Generation Through Learned Protein Representations. Claudia Valverde. Master’s thesis, University of Barcelona.\nStudy of Optimal Model Size for Foundation Language Models in Biomolecules. Raquel Vazquez. Master’s thesis, Polytechnic University of Catalonia. Co-supervised with Adrián Morales.\n\n\n\n2024\n\nPrediction and Optimization of RNA Stability via Language Models. Oriol Verges. Bachelor’s thesis, Pompeu Fabra University.\nHunting Novel Molecular Glues by Mixing AI and Molecular-Modelling Workflows. Lluis Gimenez. Bachelor’s thesis, Pompeu Fabra University. Co-supervised with Carles Pérez.\n\n\n\n2023\n\nDeep Learning Techniques for Protein–Protein Interaction Prediction. Clàudia Valverde. Bachelor’s thesis, Pompeu Fabra University.\nGenerative Modeling for De Novo Protein Generation. Yaiza Serrano. Bachelor’s thesis, Pompeu Fabra University.\n\n\n\n2022\n\nADMET Properties Prediction Using Geometric Deep Learning. Zinnera Tariq. Bachelor’s thesis, Pompeu Fabra University."
+  },
+  {
+    "objectID": "cv.html#invited-talks",
+    "href": "cv.html#invited-talks",
+    "title": "",
+    "section": "Invited talks",
+    "text": "Invited talks\nApril 2025 — Rethinking Biomolecular Language Models via Linear Attention and Learnable Tokenization\nAI in Biomedicine, Institute for Research in Biomedicine Barcelona, Barcelona, Spain.\nSeptember 2024 — Enhancing Drug Discovery Through Representation Learning in Sequence and Structure Spaces\nRSC-CICAG / RSC-BMCS Artificial Intelligence in Chemistry, Churchill College, Cambridge, United Kingdom.\nOctober 2023 — Informed Lead Generation from the Screening of Ultra-Large Databases\nCCPBioSim Industry Talk, online."
+  },
+  {
+    "objectID": "cv.html#academic-service",
+    "href": "cv.html#academic-service",
+    "title": "",
+    "section": "Academic service",
+    "text": "Academic service\n\nPeer review\nConferences\n\nNeurIPS - 2026\nInternational Conference on Learning Representations — 2025, 2026\nInternational Conference on Machine Learning — 2024, 2025, 2026\n\nJournals\n\nNature Machine Intelligence - 2026\nNucleic Acids Research — 2025\nWIREs Computational Molecular Science — 2024–2025\n\nDownload CV as PDF"
+  }
+]
